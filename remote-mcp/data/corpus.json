@@ -1,0 +1,1672 @@
+{
+  "name": "Equity Learning Knowledge",
+  "version": "1.0.0",
+  "snapshot": "2026-10-23",
+  "rights": "Owner explicitly authorized these original summaries for this project in chat on 2026-10-23. Originals, institutional logos and identifiable teacher/student records excluded. No institutional endorsement.",
+  "notice": "Product-created IDs and proposed mapping are not official item numbering. No live Drive sync. Search is bounded lexical retrieval, not exhaustive semantic search.",
+  "items": [
+    {
+      "id": "C1-S01",
+      "title": "สังเกตว่าใครได้มีเสียงและใครถูกมองข้าม",
+      "text": "สังเกตว่าใครได้มีเสียงและใครถูกมองข้าม\nหลักฐานที่ควรสังเกต: บันทึกโอกาสหลายช่องทาง\nRubric links (proposed): R1, R3",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ",
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S02",
+      "title": "เปิดทางคิด เขียน คู่สนทนา หรือรูปแบบอื่นแก่คนยังไม่พร้อมพูด",
+      "text": "เปิดทางคิด เขียน คู่สนทนา หรือรูปแบบอื่นแก่คนยังไม่พร้อมพูด\nหลักฐานที่ควรสังเกต: ทางเลือกที่ผู้เรียนใช้จริง\nRubric links (proposed): R1, R6",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ",
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S03",
+      "title": "หมุนบทบาทและโอกาสนำหรือตอบ",
+      "text": "หมุนบทบาทและโอกาสนำหรือตอบ\nหลักฐานที่ควรสังเกต: ร่องรอยการสลับบทบาท\nRubric links (proposed): R1, R6",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ",
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S04",
+      "title": "ใช้ข้อมูลจริงแทนภาพจำหรือความคุ้นเคยในการตัดสิน",
+      "text": "ใช้ข้อมูลจริงแทนภาพจำหรือความคุ้นเคยในการตัดสิน\nหลักฐานที่ควรสังเกต: หลักฐานที่ใช้และข้อจำกัด\nRubric links (proposed): R3, R6",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data",
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S05",
+      "title": "ทำให้การคิด ถาม เห็นต่าง และรู้สึกไม่ถูกตัดสินปลอดภัย",
+      "text": "ทำให้การคิด ถาม เห็นต่าง และรู้สึกไม่ถูกตัดสินปลอดภัย\nหลักฐานที่ควรสังเกต: วิธีตอบสนองต่อความเห็นต่าง\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S05",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S06",
+      "title": "ให้ข้อเสนอและการร่วมออกแบบของผู้เรียนมีผลต่อห้องเรียน",
+      "text": "ให้ข้อเสนอและการร่วมออกแบบของผู้เรียนมีผลต่อห้องเรียน\nหลักฐานที่ควรสังเกต: ข้อเสนอที่เปลี่ยนคำตัดสิน\nRubric links (proposed): R2",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S06",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-S07",
+      "title": "เชื่อมบทสนทนากับประสบการณ์และบริบทของผู้เรียน",
+      "text": "เชื่อมบทสนทนากับประสบการณ์และบริบทของผู้เรียน\nหลักฐานที่ควรสังเกต: เหตุผลเชื่อมกับชีวิตจากผู้เรียน\nRubric links (proposed): R4, R5",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance",
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-S07",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-A01",
+      "title": "เมื่อสถานการณ์เปลี่ยน ตรวจคนเงียบลง/ขาดโอกาสโดยไม่สรุปว่าไม่สนใจ",
+      "text": "เมื่อสถานการณ์เปลี่ยน ตรวจคนเงียบลง/ขาดโอกาสโดยไม่สรุปว่าไม่สนใจ\nหลักฐานที่ควรสังเกต: สัญญาณเปลี่ยนจากบริบทเดิม\nRubric links (proposed): R3",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-A01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-A02",
+      "title": "ให้ร่วมได้หลายแบบโดยไม่บังคับเล่าประสบการณ์หรือความรู้สึก",
+      "text": "ให้ร่วมได้หลายแบบโดยไม่บังคับเล่าประสบการณ์หรือความรู้สึก\nหลักฐานที่ควรสังเกต: สิทธิเลือกผ่าน/เขียน/สื่อสารทางอื่น\nRubric links (proposed): R1, R6",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ",
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-A02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-A03",
+      "title": "ป้องกันการตีตราหรือกล่าวโทษจากการพูดเรื่องวิกฤต",
+      "text": "ป้องกันการตีตราหรือกล่าวโทษจากการพูดเรื่องวิกฤต\nหลักฐานที่ควรสังเกต: คำพูดและข้อตกลงที่เคารพ\nRubric links (proposed): R5, R6",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-A03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C1-A04",
+      "title": "เปิดทางเลือก เป้าหมายเล็ก และความต้องการสนับสนุน",
+      "text": "เปิดทางเลือก เป้าหมายเล็ก และความต้องการสนับสนุน\nหลักฐานที่ควรสังเกต: ทางเลือกและก้าวที่ผู้เรียนเลือก\nRubric links (proposed): R2",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 2; product-created ID C1-A04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S01",
+      "title": "เริ่มออกแบบจากผลที่ต้องการให้เข้าใจและทำได้",
+      "text": "เริ่มออกแบบจากผลที่ต้องการให้เข้าใจและทำได้\nหลักฐานที่ควรสังเกต: เป้าหมายและหลักฐานปลายคาบ\nRubric links (proposed): ",
+      "tags": [],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S02",
+      "title": "เชื่อมความรู้เดิมและแนวคิดสำคัญกับพัฒนาการคิด",
+      "text": "เชื่อมความรู้เดิมและแนวคิดสำคัญกับพัฒนาการคิด\nหลักฐานที่ควรสังเกต: คำตอบก่อน–ระหว่างเรียน\nRubric links (proposed): ",
+      "tags": [],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S03",
+      "title": "ให้ความท้าทายเหมาะกับระดับการรู้คิด",
+      "text": "ให้ความท้าทายเหมาะกับระดับการรู้คิด\nหลักฐานที่ควรสังเกต: งาน/คำถามและการช่วยตามความจำเป็น\nRubric links (proposed): ",
+      "tags": [],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S04",
+      "title": "เลือกเดี่ยว คู่ หรือกลุ่มตามเป้าหมายพร้อมติดตามการเรียนรู้ร่วม",
+      "text": "เลือกเดี่ยว คู่ หรือกลุ่มตามเป้าหมายพร้อมติดตามการเรียนรู้ร่วม\nหลักฐานที่ควรสังเกต: เหตุผลเลือกการจัดงานและงานรายคน\nRubric links (proposed): R1",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S05",
+      "title": "ตรวจความเข้าใจระหว่างเรียนแล้วปรับการสอน",
+      "text": "ตรวจความเข้าใจระหว่างเรียนแล้วปรับการสอน\nหลักฐานที่ควรสังเกต: หลักฐานและสิ่งที่เปลี่ยนตามข้อมูล\nRubric links (proposed): R3",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S05",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S06",
+      "title": "ให้ผู้เรียนอธิบาย ถาม ฟัง และต่อยอดเหตุผล",
+      "text": "ให้ผู้เรียนอธิบาย ถาม ฟัง และต่อยอดเหตุผล\nหลักฐานที่ควรสังเกต: ตัวอย่างเหตุผลและการต่อยอด\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S06",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S07",
+      "title": "ใช้การเขียนช่วยจัดระบบและสังเคราะห์ความคิด",
+      "text": "ใช้การเขียนช่วยจัดระบบและสังเคราะห์ความคิด\nหลักฐานที่ควรสังเกต: ชิ้นงานก่อน–หลังปรับเหตุผล\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S07",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-S08",
+      "title": "สืบเสาะ ทดลอง วิเคราะห์ข้อมูล หรือทำโครงงานอย่างมีเป้าหมาย",
+      "text": "สืบเสาะ ทดลอง วิเคราะห์ข้อมูล หรือทำโครงงานอย่างมีเป้าหมาย\nหลักฐานที่ควรสังเกต: ความสัมพันธ์โจทย์–วิธี–ข้อสรุป\nRubric links (proposed): R4",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-S08",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-A01",
+      "title": "จัดเป้าหมายจำเป็น/ควรมี/เสริมก่อนปรับตามข้อจำกัด",
+      "text": "จัดเป้าหมายจำเป็น/ควรมี/เสริมก่อนปรับตามข้อจำกัด\nหลักฐานที่ควรสังเกต: เป้าหมายที่คงไว้และส่วนเลื่อน\nRubric links (proposed): ",
+      "tags": [],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-A01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-A02",
+      "title": "เตรียมอย่างน้อยสองเส้นทางเมื่อเงื่อนไขเปลี่ยน",
+      "text": "เตรียมอย่างน้อยสองเส้นทางเมื่อเงื่อนไขเปลี่ยน\nหลักฐานที่ควรสังเกต: ทางหลักและสำรองที่ทำได้จริง\nRubric links (proposed): R1",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-A02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-A03",
+      "title": "ตรวจทั้งความเข้าใจวิชาและความพร้อมเรียนโดยแยกกัน",
+      "text": "ตรวจทั้งความเข้าใจวิชาและความพร้อมเรียนโดยแยกกัน\nหลักฐานที่ควรสังเกต: หลักฐานวิชาแยกจากความพร้อม\nRubric links (proposed): R3",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-A03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-A04",
+      "title": "ให้ผู้เรียนประเมินตนและเลือกก้าวต่อที่เหมาะ",
+      "text": "ให้ผู้เรียนประเมินตนและเลือกก้าวต่อที่เหมาะ\nหลักฐานที่ควรสังเกต: เหตุผลเลือกก้าวถัดไป\nRubric links (proposed): R2",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-A04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C2-A05",
+      "title": "ลดขั้นตอน/อุปกรณ์/เวลา โดยคงการคิดและอธิบาย",
+      "text": "ลดขั้นตอน/อุปกรณ์/เวลา โดยคงการคิดและอธิบาย\nหลักฐานที่ควรสังเกต: งานย่อที่ยังตรงเป้าหมายจำเป็น\nRubric links (proposed): ",
+      "tags": [],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 3; product-created ID C2-A05",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-B01",
+      "title": "ครูรู้เท่าทันอารมณ์ตนก่อนสอน",
+      "text": "ครูรู้เท่าทันอารมณ์ตนก่อนสอน\nหลักฐานที่ควรสังเกต: การเตรียมจังหวะ/การสนับสนุนตน\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-B01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-B02",
+      "title": "เปิดพื้นที่ปลอดภัยให้บอกความไม่มั่นใจถ้าต้องการ",
+      "text": "เปิดพื้นที่ปลอดภัยให้บอกความไม่มั่นใจถ้าต้องการ\nหลักฐานที่ควรสังเกต: ช่องทางสมัครใจ\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-B02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-B03",
+      "title": "มีกิจวัตรสั้นช่วยพร้อมเริ่มเรียน",
+      "text": "มีกิจวัตรสั้นช่วยพร้อมเริ่มเรียน\nหลักฐานที่ควรสังเกต: กิจวัตรที่เลือกใช้ตามบริบท\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-B03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-B04",
+      "title": "ลดแรงกดดันด้วยคำชี้แจง/ตัวอย่าง/จุดเริ่มที่เข้าถึงได้",
+      "text": "ลดแรงกดดันด้วยคำชี้แจง/ตัวอย่าง/จุดเริ่มที่เข้าถึงได้\nหลักฐานที่ควรสังเกต: ผู้เรียนเริ่มงานได้อย่างไร\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-B04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-D01",
+      "title": "ครูหยุดสังเกตอารมณ์ระหว่างคาบ",
+      "text": "ครูหยุดสังเกตอารมณ์ระหว่างคาบ\nหลักฐานที่ควรสังเกต: เหตุการณ์และการปรับจังหวะ\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-D01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-D02",
+      "title": "ช่วยสังเกตและจัดการอารมณ์ที่กระทบการคิด",
+      "text": "ช่วยสังเกตและจัดการอารมณ์ที่กระทบการคิด\nหลักฐานที่ควรสังเกต: ทางเลือกพักหรือกลับสู่งาน\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-D02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-D03",
+      "title": "ช่วยกลับสู่สมดุลและขอความช่วยเหลือโดยไม่เร่ง",
+      "text": "ช่วยกลับสู่สมดุลและขอความช่วยเหลือโดยไม่เร่ง\nหลักฐานที่ควรสังเกต: ช่องทางช่วยที่ไม่กดดัน\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-D03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-D04",
+      "title": "ใช้คำพูด น้ำเสียง และจังหวะที่พยุงความมั่นใจ",
+      "text": "ใช้คำพูด น้ำเสียง และจังหวะที่พยุงความมั่นใจ\nหลักฐานที่ควรสังเกต: คำตอบสนองที่เคารพ\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 4; product-created ID C3-D04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-S01",
+      "title": "ใช้ความผิดพลาดเป็นจุดเริ่มหาแนวทางใหม่",
+      "text": "ใช้ความผิดพลาดเป็นจุดเริ่มหาแนวทางใหม่\nหลักฐานที่ควรสังเกต: การลองปรับหลังผิดพลาด\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-S01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-S02",
+      "title": "ใช้ความตึงเครียดหรือปัญหาความสัมพันธ์เป็นโอกาสเรียนรู้",
+      "text": "ใช้ความตึงเครียดหรือปัญหาความสัมพันธ์เป็นโอกาสเรียนรู้\nหลักฐานที่ควรสังเกต: ทางเลือกแก้ร่วมกันที่ปลอดภัย\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-S02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-S03",
+      "title": "เปิดให้เรียกชื่อความรู้สึกเพื่อสื่อสารและสะท้อนตามความพร้อม",
+      "text": "เปิดให้เรียกชื่อความรู้สึกเพื่อสื่อสารและสะท้อนตามความพร้อม\nหลักฐานที่ควรสังเกต: คำ/สัญลักษณ์สมัครใจ ไม่ใช่การวินิจฉัย\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-S03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-S04",
+      "title": "ชวนเห็นผลของคำพูดและการตัดสินใจต่อผู้อื่น",
+      "text": "ชวนเห็นผลของคำพูดและการตัดสินใจต่อผู้อื่น\nหลักฐานที่ควรสังเกต: เหตุผลที่คำนึงหลายฝ่าย\nRubric links (proposed): R2, R5",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต",
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-S04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-S05",
+      "title": "คงการสื่อสารอย่างเคารพแม้งานติดขัด",
+      "text": "คงการสื่อสารอย่างเคารพแม้งานติดขัด\nหลักฐานที่ควรสังเกต: การฟังและการตอบที่ไม่ลดคุณค่า\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-S05",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-E01",
+      "title": "เปิดสะท้อนความรู้สึกตามสมัครใจแล้วเชื่อมการคิดและก้าวต่อ",
+      "text": "เปิดสะท้อนความรู้สึกตามสมัครใจแล้วเชื่อมการคิดและก้าวต่อ\nหลักฐานที่ควรสังเกต: สิ่งที่เรียนรู้และก้าวต่อที่ผู้เรียนให้\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-E01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-E02",
+      "title": "เห็นคุณค่าความพยายาม การช่วยกัน และการลอง",
+      "text": "เห็นคุณค่าความพยายาม การช่วยกัน และการลอง\nหลักฐานที่ควรสังเกต: ตัวอย่างกระบวนการที่ให้ feedback\nRubric links (proposed): R1",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-E02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-E03",
+      "title": "ไม่ใช้ reflection ตัดสินคุณค่าบุคคล",
+      "text": "ไม่ใช้ reflection ตัดสินคุณค่าบุคคล\nหลักฐานที่ควรสังเกต: ภาษา feedback ต่อชิ้นงาน/การเรียนรู้\nRubric links (proposed): R5",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection",
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-E03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-A01",
+      "title": "ใช้ SEL สั้นช่วยเริ่ม/ปิดคาบตามความพร้อม",
+      "text": "ใช้ SEL สั้นช่วยเริ่ม/ปิดคาบตามความพร้อม\nหลักฐานที่ควรสังเกต: กิจวัตรเลือกใช้และทางเลือกไม่ร่วม\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-A01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-A02",
+      "title": "รับฟังอารมณ์/ความต้องการโดยไม่ขอรายละเอียดเหตุรุนแรง",
+      "text": "รับฟังอารมณ์/ความต้องการโดยไม่ขอรายละเอียดเหตุรุนแรง\nหลักฐานที่ควรสังเกต: ช่องทางไม่เปิดเผยต่อสาธารณะ\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-A02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-A03",
+      "title": "ฝึกขอช่วย พัก ฟัง ตรวจข่าว หรือเลือกความปลอดภัย",
+      "text": "ฝึกขอช่วย พัก ฟัง ตรวจข่าว หรือเลือกความปลอดภัย\nหลักฐานที่ควรสังเกต: ก้าวเล็กที่เหมาะกับสถานการณ์\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-A03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C3-A04",
+      "title": "รู้เมื่อควรติดตามหรือใช้ระบบส่งต่อของโรงเรียน",
+      "text": "รู้เมื่อควรติดตามหรือใช้ระบบส่งต่อของโรงเรียน\nหลักฐานที่ควรสังเกต: ช่องทางมนุษย์และขอบเขตครู\nRubric links (proposed): ",
+      "tags": [
+        "SEL",
+        "ความรู้สึก"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 5; product-created ID C3-A04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-RR01",
+      "title": "เทียบความก้าวหน้ากับตนโดยคำนึงความพร้อมต่างกัน",
+      "text": "เทียบความก้าวหน้ากับตนโดยคำนึงความพร้อมต่างกัน\nหลักฐานที่ควรสังเกต: ร่องรอยพัฒนาการของเจ้าตัว\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-RR01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-RR02",
+      "title": "ให้ทางเริ่ม ขอช่วย ลองใหม่ หรือปรับก้าวหลังสะดุด",
+      "text": "ให้ทางเริ่ม ขอช่วย ลองใหม่ หรือปรับก้าวหลังสะดุด\nหลักฐานที่ควรสังเกต: ทางเลือกกลับสู่การเรียนรู้\nRubric links (proposed): R2",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต",
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-RR02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-RR03",
+      "title": "ทำให้การกลับมาเรียนหลังผิดพลาดไม่เป็นการตีตราล้มเหลว",
+      "text": "ทำให้การกลับมาเรียนหลังผิดพลาดไม่เป็นการตีตราล้มเหลว\nหลักฐานที่ควรสังเกต: ภาษาและกิจวัตรกลับเข้าสู่งาน\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-RR03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-RR04",
+      "title": "เชื่อมการเรียนรู้กับชีวิต คุณค่า และการดูแลกัน",
+      "text": "เชื่อมการเรียนรู้กับชีวิต คุณค่า และการดูแลกัน\nหลักฐานที่ควรสังเกต: ความหมายที่ผู้เรียนเชื่อมได้\nRubric links (proposed): R4",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance",
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-RR04",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-SP01",
+      "title": "บอกว่าจะเรียนอะไร ทำอะไร และถ้าเปลี่ยนจะทำอย่างไร",
+      "text": "บอกว่าจะเรียนอะไร ทำอะไร และถ้าเปลี่ยนจะทำอย่างไร\nหลักฐานที่ควรสังเกต: คำชี้แจงและแผนสำรองที่คาดเดาได้\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-SP01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-SP02",
+      "title": "หลีกเลี่ยงสื่อ/คำถามที่กดดันประสบการณ์เจ็บปวดโดยไม่จำเป็น",
+      "text": "หลีกเลี่ยงสื่อ/คำถามที่กดดันประสบการณ์เจ็บปวดโดยไม่จำเป็น\nหลักฐานที่ควรสังเกต: การเลือกสื่อและทางเลือกที่ไม่บังคับ\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-SP02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-SP03",
+      "title": "ยอมรับผลกระทบต่างกัน ไม่คาดให้ตอบสนองเหมือนกัน",
+      "text": "ยอมรับผลกระทบต่างกัน ไม่คาดให้ตอบสนองเหมือนกัน\nหลักฐานที่ควรสังเกต: ทางเลือกตามความพร้อม\nRubric links (proposed): R6",
+      "tags": [
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access",
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-SP03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-PR01",
+      "title": "สังเกตความเปลี่ยนแปลงสุขภาวะและความพร้อมโดยไม่วินิจฉัย",
+      "text": "สังเกตความเปลี่ยนแปลงสุขภาวะและความพร้อมโดยไม่วินิจฉัย\nหลักฐานที่ควรสังเกต: ข้อสังเกตตามจริงที่จำเป็น\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-PR01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-PR02",
+      "title": "รับฟังสงบและไม่เร่งหรือบังคับเปิดเผย",
+      "text": "รับฟังสงบและไม่เร่งหรือบังคับเปิดเผย\nหลักฐานที่ควรสังเกต: วิธีรับฟังที่รักษาความเป็นส่วนตัว\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-PR02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-PR03",
+      "title": "ให้ทางพัก ขอช่วย บอกความต้องการ หรือกลับสู่งาน",
+      "text": "ให้ทางพัก ขอช่วย บอกความต้องการ หรือกลับสู่งาน\nหลักฐานที่ควรสังเกต: ก้าวช่วยเบื้องต้นที่เลือกได้\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-PR03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-TB01",
+      "title": "ครูตรวจความพร้อมตนก่อนสอน",
+      "text": "ครูตรวจความพร้อมตนก่อนสอน\nหลักฐานที่ควรสังเกต: แผนจัดภาระและขอความช่วยเหลือ\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-TB01",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-TB02",
+      "title": "ใช้ Buddy Teacher ช่วยสังเกตการเรียนรู้และคนที่ถูกมองข้าม",
+      "text": "ใช้ Buddy Teacher ช่วยสังเกตการเรียนรู้และคนที่ถูกมองข้าม\nหลักฐานที่ควรสังเกต: บันทึกจากครูคู่คิดที่ไม่ระบุตัวเด็ก\nRubric links (proposed): R3",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data",
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-TB02",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "C4-TB03",
+      "title": "ใช้ระบบช่วยเหลือเมื่อเกินบทบาทครู ไม่แบกรับลำพัง",
+      "text": "ใช้ระบบช่วยเหลือเมื่อเกินบทบาทครู ไม่แบกรับลำพัง\nหลักฐานที่ควรสังเกต: ผู้รับผิดชอบมนุษย์ตามระบบโรงเรียน\nRubric links (proposed): ",
+      "tags": [
+        "ปรับตัว",
+        "สะดุด",
+        "สำรอง"
+      ],
+      "source": {
+        "title": "checklist-v8-crosswalk.md",
+        "version": "Checklist V8 (user-supplied)",
+        "location": "PDF page 6; product-created ID C4-TB03",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/checklist-v8-crosswalk.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R1-L1",
+      "title": "R1-L1 Symbolic",
+      "text": "รับหน้าที่ตามชื่อหรือคำสั่ง แต่ยังไม่เข้าใจคุณค่าหรือไม่มีส่วนคิด\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R1-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R1-L2",
+      "title": "R1-L2 Functional",
+      "text": "ทำหน้าที่พื้นฐานได้ แต่งานและความรับผิดชอบยังแยกกัน\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R1-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R1-L3",
+      "title": "R1-L3 Reflective",
+      "text": "ใช้บทบาทพร้อมสะท้อนว่าใครขาดโอกาส และปรับการมีส่วนร่วมให้เป็นธรรม\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R1-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R1-L4",
+      "title": "R1-L4 Transformative",
+      "text": "ผู้เรียนกับครูร่วมปรับระบบบทบาท ใช้เสียงผู้เรียนและความเป็นเจ้าของร่วมอย่างต่อเนื่อง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เสียง",
+        "บทบาท",
+        "voice",
+        "role",
+        "เงียบ"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R1-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R2-L1",
+      "title": "R2-L1 Symbolic",
+      "text": "ครูกำหนดผลตัดสินใจ สิทธิของผู้เรียนยังไม่มีผลจริง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R2-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R2-L2",
+      "title": "R2-L2 Functional",
+      "text": "ผู้เรียนเลือกหรือโหวตได้บางเรื่อง แต่ผู้เสนอและโอกาสยังจำกัด\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R2-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R2-L3",
+      "title": "R2-L3 Reflective",
+      "text": "ผู้เรียนตรวจความเป็นธรรมของการตัดสินใจ และมีช่องทางให้หลายเสียงมีผลจริง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R2-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R2-L4",
+      "title": "R2-L4 Transformative",
+      "text": "ครูและผู้เรียนร่วมสร้างกติกาตัดสินใจที่เปิดกว้าง ใช้และปรับระบบนั้นร่วมกัน\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ตัดสินใจ",
+        "co-design",
+        "agency",
+        "โหวต"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R2-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R3-L1",
+      "title": "R3-L1 Symbolic",
+      "text": "ตัดสินจากภาพจำหรือข้อมูลผิวเผิน โดยยังไม่เห็นคุณภาพและบริบทผู้เรียน\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R3-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R3-L2",
+      "title": "R3-L2 Functional",
+      "text": "เก็บคะแนนหรือชิ้นงานจริง แต่เน้นบันทึกหรือภาพรวมมากกว่านำไปปรับโอกาส\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R3-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R3-L3",
+      "title": "R3-L3 Reflective",
+      "text": "ใช้หลักฐานเชิงปริมาณและคุณภาพตรวจว่าใครเข้าถึงหรือขาดโอกาส แล้วสะท้อนความเป็นธรรม\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R3-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R3-L4",
+      "title": "R3-L4 Transformative",
+      "text": "ครูกับผู้เรียนร่วมตีความหลักฐานและใช้เปลี่ยนกระบวนการเรียนรู้ให้เป็นธรรมอย่างต่อเนื่อง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ข้อมูล",
+        "หลักฐาน",
+        "data"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R3-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R4-L1",
+      "title": "R4-L1 Symbolic",
+      "text": "มีตัวอย่างชีวิตหรืออาชีพ แต่ผู้เรียนยังไม่เห็นความหมายกับตน\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R4-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R4-L2",
+      "title": "R4-L2 Functional",
+      "text": "ผู้เรียนอธิบายความเชื่อมโยงพื้นฐานได้ แต่ยังไม่เห็นคุณค่าต่อชีวิตตนชัด\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R4-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R4-L3",
+      "title": "R4-L3 Reflective",
+      "text": "ผู้เรียนเชื่อมบทเรียนกับชีวิตหรืออนาคตตน และสะท้อนโอกาสที่ไม่ถูกจำกัดด้วยภาพจำเพศ\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R4-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R4-L4",
+      "title": "R4-L4 Transformative",
+      "text": "ผู้เรียนใช้ความรู้ร่วมออกแบบแนวทางเพื่อชีวิต อาชีพ ชุมชน หรือความยั่งยืน พร้อมเห็นคุณค่าบทบาทที่หลากหลาย\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "ชีวิตจริง",
+        "relevance"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R4-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R5-L1",
+      "title": "R5-L1 Symbolic",
+      "text": "ถามตอบหรือสะท้อนเพื่อจบขั้นตอน ยังไม่แสดงการสร้างความหมาย\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R5-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R5-L2",
+      "title": "R5-L2 Functional",
+      "text": "เล่าสิ่งที่ทำหรืออธิบายพื้นฐานได้ แต่ยังแลกเปลี่ยนและเชื่อมมุมมองจำกัด\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R5-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R5-L3",
+      "title": "R5-L3 Reflective",
+      "text": "ใช้เหตุผล ฟังและต่อยอดความคิด เชื่อมความต่างและสะท้อนความเป็นธรรม\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R5-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R5-L4",
+      "title": "R5-L4 Transformative",
+      "text": "ครูและผู้เรียนใช้สิ่งที่สะท้อนร่วมกันเป็นฐานตัดสินใจและปรับระบบการเรียนรู้อย่างต่อเนื่อง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "สะท้อน",
+        "อภิปราย",
+        "reflection"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R5-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R6-L1",
+      "title": "R6-L1 Symbolic",
+      "text": "ความเคยชินหรือภาพจำเพศยังจำกัดบทบาทและโอกาสโดยไม่ได้ตรวจสอบ\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R6-L1",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R6-L2",
+      "title": "R6-L2 Functional",
+      "text": "บางคนได้ลองข้ามภาพจำตามสถานการณ์ แต่ยังไม่ได้ออกแบบและติดตามให้ทั่วถึง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R6-L2",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R6-L3",
+      "title": "R6-L3 Reflective",
+      "text": "ครูออกแบบโอกาสอย่างตั้งใจ ผู้เรียนเริ่มสะท้อนความเป็นธรรมและการยอมรับความต่าง\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R6-L3",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "R6-L4",
+      "title": "R6-L4 Transformative",
+      "text": "ครูและผู้เรียนร่วมปรับระบบ ติดตามโอกาสและการยอมรับอย่างต่อเนื่อง จนการเข้าถึงไม่ขึ้นกับภาพจำเพศ\nUse only with requested dimension-specific developmental comparison and adequate reported practice. One activity/vote does not establish L4. Read full rubric guide before comparing levels.",
+      "tags": [
+        "เพศ",
+        "เข้าถึง",
+        "gender",
+        "access"
+      ],
+      "source": {
+        "title": "rubric-v4-levels.md",
+        "version": "Rubric V4 (user-supplied)",
+        "location": "R6-L4",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/rubric-v4-levels.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "GUIDE-MINI",
+      "title": "Mini-Box ตามจังหวะ",
+      "text": "# ช่วยครูตามจังหวะ Mini-Box V8\n\nสรุปประยุกต์จาก Checklist V8 หน้า 7 ไม่ใช่โหมดใหม่หรือขั้นสอน 5E ใช้ใน Coach และช่วยเลือกการปรับใน QA/Improve/Design โดยคงสไตล์และความยาวที่ครูเลือก\n\n## เลือกจังหวะ\n\n| จังหวะ | ทำได้ทันที | สิ่งที่สังเกต | สัญญาณเตือน | หลักฐานที่เสนอเก็บ |\n|---|---|---|---|---|\n| Before Starting | บอกเป้าหมายและทางเข้าร่วมที่เลือกได้; เช็กอินสั้นเมื่อเหมาะ | เริ่มงานได้ เข้าใจบทบาท คนเงียบมีทางเข้า | คนเดิมนำ คนถอนตัว ไม่รู้เริ่มอย่างไร | ทางเลือกที่ใช้และการกระจายบทบาทต้นคาบ |\n| During Learning | ให้เวลาคิด เขียนหรือคุยคู่ หมุนบทบาทและตรวจความเข้าใจ | หลายความคิดพร้อมเหตุผลและความรับผิดชอบร่วม | คึกคักแต่คิดตื้น คนเดียวทำแทน ครูเฉลยเร็ว | เหตุผล ชิ้นงานระหว่างเรียน บทบาทที่เกิดจริง |\n| When Stuck | หยุดสั้น ระบุปัญหา เปิด 2–3 ทางเลือกที่ปลอดภัย แล้วร่วมตัดสินใจ | เห็นปัญหา ผลต่อคนอื่น และมีส่วนเลือกทางต่อ | ครูตัดสินแทน เสียงดังชนะ คนถูกลดความมั่นใจ | ทางเลือกที่เสนอ เหตุผล และสิ่งที่เปลี่ยนจากเสียงผู้เรียน |\n| After Learning | เปิดสะท้อนตามพร้อม เชื่อมคิด–เรียนรู้–ก้าวต่อ; buddy reflection เมื่อมี | เห็นสิ่งที่เรียนรู้และก้าวถัดไป | จบแค่ชอบ/สนุกหรือเล่ากิจกรรม ไม่มีทางต่อ | exit ticket, reflection, feedback และแผนก้าวต่อ |\n\n## วิธีตอบ\n\n1. ยึดเหตุการณ์จริง เลือกจังหวะหนึ่งและเลนส์ที่จำเป็น (เช่น R1↔R2) ไม่สมมติสาเหตุจากความเงียบ/เพศ\n2. ถ้าครูขอคำแนะนำ ให้หนึ่งการปรับที่ทำได้ พร้อมหนึ่งสิ่งสังเกตหรือหลักฐาน หากข้อมูลจำเป็นขาดให้ถามข้อมูลเดียว ไม่รวบหลายคำถามหรือแจกทุกเสาหลัก\n3. Quick Move / Look-For / Red Flag / Evidence ใช้เป็นตรรกะภายใน ไม่บังคับสี่หัวข้อหรือ footer ใน Coach สั้น เมื่อครูขอละเอียดค่อยจัดตาราง พร้อมแยกสิ่งที่เห็นจริงออกจากสิ่งเสนอให้เก็บ\n4. Red flag คือสัญญาณให้ตรวจเพิ่ม ไม่ใช่ข้อพิสูจน์ความล้มเหลว/อคติ/โรค ไม่มีการฟันธงสาเหตุจากเหตุการณ์เดียว\n5. When Stuck เปิดให้บอกความรู้สึกเฉพาะเมื่อสมัครใจ ไม่ใช้ Name the Feeling บังคับทุกคนหรือขอเล่าเหตุส่วนตัว การมีส่วนร่วมรวมการเขียน/ชี้/พักตามพร้อม\n6. ปิดด้วยการทดลองเล็กและหลักฐานที่ไม่ระบุตัวตน เมื่อครูขอปรับแผนให้ทำต่อทันที โดยรักษาเวลา อุปกรณ์ และเป้าหมาย เลือก HIP 1–2 แนวและใช้ 5E เมื่อเหมาะสม/ครูเลือก\n\n## ตัวอย่างสังเคราะห์ ไม่ใช่ข้อมูลห้องเรียนจริง\n\nครู: “สลับหน้าที่แล้วแต่มีคนเดียวเลือกวิธีทดลอง ขอคำแนะนำสั้น ๆ”\n\nคำตอบ: “ตอนนี้มีการกระจายหน้าที่แล้ว แต่การตัดสินใจยังอยู่กับคนเดิม ลองให้แต่ละคนเขียนข้อเสนอหนึ่งอย่างก่อนกลุ่มเลือกวิธี แล้วจดว่าข้อเสนอใดทำให้เปลี่ยนคำตัดสิน จะช่วยดูสิทธิร่วมตัดสินใจควบคู่บทบาท โดยยังไม่สรุประดับจากเหตุการณ์เดียวครับ”\n\nครู: “ทุกคนเขียนว่าคาบนี้สนุก แบบนี้ reflection ลึกแล้วไหม”\n\nคำตอบ: “นี่บอกความรู้สึกที่ควรรับฟัง แต่ยังไม่เห็นเหตุผลหรือสิ่งที่จะนำไปใช้ ลองให้เลือกเขียนเพิ่มว่า ‘ความคิดใดเปลี่ยนจากหลักฐานหรือเพื่อน และคาบหน้าจะลองอะไร’ แล้วดูว่ามีเหตุผลและก้าวต่อจริงไหม ไม่บังคับเล่าความรู้สึกต่อหน้าชั้นครับ”\n",
+      "tags": [
+        "ติดขัด",
+        "ก่อนเริ่ม",
+        "หลังเรียน",
+        "mini-box"
+      ],
+      "source": {
+        "title": "mini-box-coaching.md",
+        "version": "Project summary 2026-10-23",
+        "location": "Mini-Box ตามจังหวะ",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/mini-box-coaching.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "GUIDE-HIP",
+      "title": "เลือก HIP ที่ตรงช่องว่าง",
+      "text": "# High-Impact Practices (HIP): choose context-fit pedagogies\n\nThe project `Formative Assessment -3D` workshop material includes teaching practices (Thai source vocabulary rendered as condensed English):\n\n1. **Design learning for intended outcomes** — explicit, high-quality task linked to the objective.\n2. **Cognitively appropriate/challenging tasks** — scaffold cognitive demand without lowering expectations unfairly.\n3. **Purposeful partner/group work** — accountability, equitable role/voice rotation, collaboration with clear learning purpose.\n4. **Formative assessment** — observe ideas/misconceptions during the task and adapt instruction; feedback to improve.\n5. **Learner-centered dialogue** — opportunities for reasoning, explaining, challenging and listening.\n6. **Routine writing** — quick written reasoning, notes or reflection accessible in multiple modalities.\n7. **Inquiry & project-based learning** — investigate, test ideas and apply concepts authentically.\n8. **Learning goal setting** — short visible objectives and meaningful reflection on next steps.\n\n**This is a teaching menu, not 8 things every lesson must contain.** For MVP choose 1–2 aligned interventions per plan and give concrete lesson moves, e.g., Think–Pair–Share + structured role rotation, low-stakes exit ticket, CPA (Concrete–Pictorial–Abstract) for appropriate math topics, guided inquiry/5E where apt.\n\nResearch-aware external references for selected practices:\n- Education Endowment Foundation (EEF), Toolkit: Feedback, Metacognition and Self-regulation, Collaborative Learning, High-Quality Teaching. Links: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/ ; https://educationendowmentfoundation.org.uk/support-for-schools/school-planning-support/1-high-quality-teaching\n- EEF reports synthesize studies across settings; do **not** apply a universal effect size or claim that every item in this local training list has the same causal evidence/impact.\n\nLocal project source: https://drive.google.com/file/d/1kyNFXT4Fn2XlLBwc_7SBoAsk2gaGu63j/view\nMath instructional model source: https://docs.google.com/presentation/d/1CQGIED_pgG4z73Onhbt8cE7RRBbsWRqI/edit\n",
+      "tags": [
+        "HIP",
+        "high impact",
+        "วิธีสอน"
+      ],
+      "source": {
+        "title": "high-impact-practices.md",
+        "version": "Project summary 2026-10-23",
+        "location": "เลือก HIP ที่ตรงช่องว่าง",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/high-impact-practices.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "GUIDE-COMPASS",
+      "title": "Equity Compass หกจุด",
+      "text": "# Six-point Equity & Gender Equality Compass (design-support tool)\n\nAn additional 6-point **Classroom-Level Equity & Gender-Equality Compass** in Act 4, distinct from the rubric's list/assessment anchors:\n\n1. **Equitable Access** — how learners with differing preparation, abilities, language, resource constraints and identities enter and take part.\n2. **Role & Voice** — substantive roles, not symbolic names, with opportunity for each learner to contribute.\n3. **Reality-Based Data Use** — use qualitative/quantitative classroom signals to spot patterns and make fair adjustments.\n4. **Agency & Co-Decision Making** — learners affect decisions about activities and ways of demonstrating learning.\n5. **Real-Life Relevance** — inclusive local examples, life experiences and varied role models/career routes.\n6. **Discussion & Reflection** — meaningful, facilitated participation, multiple modes of reflection, actual response to learner feedback.\n\nUse for **design improvements**, not duplicate scoring against the other six dimensions. In audits, state which source lens you use.\nSource: https://drive.google.com/file/d/1nY3AlX4qiGGcSmPBGsB8tIo-Jiac1rvm/view\n",
+      "tags": [
+        "compass",
+        "เข้าถึง"
+      ],
+      "source": {
+        "title": "equity-compass-six.md",
+        "version": "Project summary 2026-10-23",
+        "location": "Equity Compass หกจุด",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/equity-compass-six.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    },
+    {
+      "id": "GUIDE-3D",
+      "title": "Formative 3D",
+      "text": "# Formative Assessment 3D: from evidence to redesign\n\nIn the project workshop file **Formative Assessment – 3D**:\n- **Decode** what student work/participation shows, identify known and missing evidence. Three lenses: Student Learning, Teacher Practice, PLC & School Ecosystem.\n- **Distill** analyze patterns and possible root causes; check whether the missing opportunities involve role, voice, materials or assumptions. Distinguish observation from interpretation.\n- **Design** one response grounded in evidence; specify a classroom action, formative check, and when to review the result.\n\nDo not imply that a lesson plan has already produced learning or gender equity; mark what has yet to be tested. After real teaching, invite de-identified, voluntarily shared observations and student feedback to guide a new 3D round.\n\nSource: https://drive.google.com/file/d/1kyNFXT4Fn2XlLBwc_7SBoAsk2gaGu63j/view\n",
+      "tags": [
+        "3D",
+        "หลักฐาน",
+        "formative"
+      ],
+      "source": {
+        "title": "assessment-3d.md",
+        "version": "Project summary 2026-10-23",
+        "location": "Formative 3D",
+        "summary_url": "https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/plugin/skills/equity-lesson-design/references/assessment-3d.md",
+        "kind": "owner-authorized original summary; not original document"
+      },
+      "snapshot": "2026-10-23",
+      "evidence_scope": "Design guidance only; not evidence of actual pupil outcomes or institutional certification."
+    }
+  ]
+}

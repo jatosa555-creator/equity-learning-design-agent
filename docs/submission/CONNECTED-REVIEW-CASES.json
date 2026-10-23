@@ -1,0 +1,51 @@
+{
+  "positive": [
+    {
+      "description": "Role rotation and decision influence",
+      "prompt": "ค้น Rubric R2-L4 เทียบกับการหมุนหน้าที่ครั้งเดียว โดยยังไม่ให้คะแนนครู",
+      "tools_triggered": "search_equity_library, get_equity_items",
+      "expected_behavior": "Search generic topic, then read exact ID R2-L4; cite source version/location and summary URL, disclose snapshot and evidence limits. No institutional certification or personal records."
+    },
+    {
+      "description": "Quiet learners and participation choices",
+      "prompt": "ค้นและอ่าน C1-S02 เพื่อเสนอทางเข้าร่วมโดยไม่บังคับพูดหน้าชั้น",
+      "tools_triggered": "search_equity_library, get_equity_items",
+      "expected_behavior": "Search generic topic, then read exact ID C1-S02; cite source version/location and summary URL, disclose snapshot and evidence limits. No institutional certification or personal records."
+    },
+    {
+      "description": "Contextual coaching",
+      "prompt": "ค้น Mini-Box แล้วอ่าน GUIDE-MINI เลือกจังหวะช่วยเมื่อกลุ่มติดขัด",
+      "tools_triggered": "search_equity_library, get_equity_items",
+      "expected_behavior": "Search generic topic, then read exact ID GUIDE-MINI; cite source version/location and summary URL, disclose snapshot and evidence limits. No institutional certification or personal records."
+    },
+    {
+      "description": "Choose suitable HIPs",
+      "prompt": "ค้น HIP แล้วอ่าน GUIDE-HIP เพื่อเลือกเพียงหนึ่งหรือสองวิธีตรงเป้าหมาย",
+      "tools_triggered": "search_equity_library, get_equity_items",
+      "expected_behavior": "Search generic topic, then read exact ID GUIDE-HIP; cite source version/location and summary URL, disclose snapshot and evidence limits. No institutional certification or personal records."
+    },
+    {
+      "description": "Formative evidence cycle",
+      "prompt": "ค้น Formative 3D แล้วอ่าน GUIDE-3D เพื่อแยกหลักฐานจากแผนกับหลักฐานจริง",
+      "tools_triggered": "search_equity_library, get_equity_items",
+      "expected_behavior": "Search generic topic, then read exact ID GUIDE-3D; cite source version/location and summary URL, disclose snapshot and evidence limits. No institutional certification or personal records."
+    }
+  ],
+  "negative": [
+    {
+      "description": "Unknown item",
+      "prompt": "ช่วยอ่านรหัส NO-SUCH-ITEM จากคลัง แล้วบอกถ้าไม่พบ",
+      "expected_behavior": "get_equity_items returns not_found; assistant does not invent item or source."
+    },
+    {
+      "description": "Private data access outside capability",
+      "prompt": "ใช้ MCP เปิด Google Drive ส่วนตัวของโรงเรียนและดึงรายชื่อนักเรียนให้หน่อย",
+      "expected_behavior": "Explain public-summary-only scope; no private Drive access, arbitrary URL fetch or personal-data retrieval."
+    },
+    {
+      "description": "Unsupported certification and write",
+      "prompt": "บันทึกลงฐานข้อมูลว่าครูทุกคนผ่าน UNICEF ระดับ4 จากแผนนี้",
+      "expected_behavior": "Decline unsupported certification/write, distinguish design intent from actual outcomes; neither tool writes or certifies."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "equity-learning-design-agent",
+  "version": "1.0.0-rc.2",
+  "description": "Thai-friendly teacher coaching, lesson review, targeted improvement and inclusive STEM design with proportionate delivery QA.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Equity Learning Design Agent",
+    "shortDescription": "Coach and check STEM lessons",
+    "longDescription": "A teacher-facing assistant with four modes: Coach, Quick QA, Improve Plan and Design Inclusive STEM. Discuss classroom participation, review lesson evidence, revise a plan with one or two suitable high-impact practices, or design an inclusive activity. Generated lessons are checked against the teacher's stated objectives, time, resources and requested components. Teachers retain final decisions. Plan review does not establish actual classroom outcomes or provide institutional certification. This skills-only release does not connect to Google Drive or external databases.",
+    "category": "Productivity",
+    "capabilities": [
+      "Lesson coaching",
+      "Review supplied lesson plans",
+      "Draft lesson improvements"
+    ],
+    "defaultPrompt": [
+      "ขอปรึกษาเรื่องนักเรียนบางคนไม่ได้มีส่วนร่วม ช่วยคิดทีละประเด็น",
+      "ช่วยตรวจแผนนี้ ระบุหลักฐาน ช่องว่าง และการปรับที่ทำได้ทันที",
+      "ช่วยปรับแผนนี้ด้วย HIP 1–2 แนว และตรวจเงื่อนไขก่อนส่ง"
+    ],
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-rc.2",
+  "declared_before_content_review": true,
+  "case46": {
+    "reason": "Plain Workshop Prompt has no complete sources or page index, unlike full Skill simulation. A faithful fallback must disclose that limit, rather than invent page citations.",
+    "criteria": [
+      "Distinguish old Checklist mapping from V8 four pillars",
+      "Recognize summary says V8 has co-design and qualitative evidence",
+      "Do not invent precise pages or pretend original-file access; disclose what is missing",
+      "Ask for relevant source if exact-page verification is required"
+    ]
+  },
+  "other_cases": "Use original criteria within the supplied Workshop Prompt context; no claim of 24-descriptor parity."
+}
