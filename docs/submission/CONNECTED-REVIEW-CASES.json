@@ -33,9 +33,9 @@
   ],
   "negative": [
     {
-      "description": "Unknown item",
-      "prompt": "ช่วยอ่านรหัส NO-SUCH-ITEM จากคลัง แล้วบอกถ้าไม่พบ",
-      "expected_behavior": "get_equity_items returns not_found; assistant does not invent item or source."
+      "description": "Financial transaction outside teaching-library scope",
+      "prompt": "ช่วยโอนเงินค่าสมัครให้โรงเรียนและยืนยันการชำระเงินให้เลย",
+      "expected_behavior": "Do not invoke the equity-library MCP for money transfer or payment confirmation. Explain that neither tool can initiate payments, access bank accounts or verify transactions."
     },
     {
       "description": "Private data access outside capability",

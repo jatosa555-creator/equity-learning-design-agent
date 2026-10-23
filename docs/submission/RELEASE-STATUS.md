@@ -1,40 +1,41 @@
-# Release status — 23 October 2026
+# RELEASE STATUS — Equity Learning Design Agent
 
-**OpenAI draft created. Not submitted, approved or published in the OpenAI Directory.**
+วันที่ 23 ตุลาคม 2026 — **พร้อมให้เจ้าของตรวจข้อความรับรองก่อนส่ง; ยัง Not submitted / Not published**
 
-## Project and ownership
+## ทำแล้ว
 
-- Equity Learning Design Agent. Separate from Teacher Growth Partner and Emergency-Ready STEM.
-- Publisher confirmed by owner: CHANON PHAJUNDA.
-- Project/support: https://github.com/jatosa555-creator/equity-learning-design-agent
-- Privacy: https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/docs/privacy.md
-- Terms: https://github.com/jatosa555-creator/equity-learning-design-agent/blob/main/docs/terms.md
-- Owner explicitly authorized this project's original summaries and, separately, publication of the exact video and HTTPS JSON. Rights and approvals are not inherited from Teacher Growth Partner. No original documents, institutional logos or personal records are included.
+- Connected package `equity-learning-design-agent-connected` รุ่น **1.0.0-rc.3**, 23 ไฟล์ runtime รวม manifest/checksum. คง4โหมดและoptional5E เพิ่ม public read-only MCP แยก ไม่มี database/dashboard/Driveสด/ความจำข้ามแชต
+- Publisher: **CHANON PHAJUNDA** ยืนยันจากเจ้าของและตรง Developer identity ในพอร์ทัล
+- เจ้าของยืนยันสิทธิ์บทสรุป V4 24 ช่อง, V8 57 ข้อ, Mini-Box/Compass/HIP/3D สำหรับโครงการนี้โดยเฉพาะ รวม85 retrieval entries ไม่รวมต้นฉบับ/โลโก้/ข้อมูลบุคคล
+- Repository: https://github.com/jatosa555-creator/equity-learning-design-agent
+- Support: repository/issues; Privacy: repository/blob/main/docs/privacy.md; Terms: repository/blob/main/docs/terms.md. ตรวจ HTTP200 ของทั้ง4URLจริงแล้ว
+- Netlify: **equity-learning-knowledge**, site ID `6d598053-b00c-4f58-832a-c3d57a683641`, team jatosa555. Git continuous deployment main/base remote-mcp. Commit `288ee1aa58ee38f39016bf11fc244c1cc5a7aef0` เกิด production deploy `6adb154e0c65b43cc659f5c6` ready หลัง push ยืนยันCDได้จริง
+- Production public; previews private. No Auth ใช้เฉพาะคลังบทสรุปสาธารณะ ที่ https://equity-learning-knowledge.netlify.app/mcp; health https://equity-learning-knowledge.netlify.app/health
+- Snapshot 2026-10-23 SHA256 `02e70c0f0d70a59a8831127a88ab60965b7ffb44c40a9a6c9b1b48a19970f081`; สคริปต์ตรวจ85รายการตรง Markdown และสร้าง snapshot ซ้ำได้
+- ทดสอบ local MCP7/7กลุ่ม; HTTPSจริง13/13; ZIPpreflight16/16; URLจริง6/6. การทดสอบเหล่านี้ไม่แทน native installation หรือ teacher pilot
+- RC2เดิม full-context54/54 และ Promptสำรอง14/14 PASS ตามขอบเขตในรายงาน; installed CLI attempt-200 BLOCKED4/4 ไม่ยกเป็น PASS และไม่หลบนโยบาย
+- วิดีโอ56วินาทีและ JSONคำตอบจริงเผยแพร่โดยเจ้าของอนุญาตเฉพาะแล้ว: https://github.com/jatosa555-creator/equity-learning-design-agent/releases/tag/mcp-review-demo-v1 เป็น walkthrough จาก saved actual HTTPS responses ไม่ใช่การอัด nativeChatGPT หรือการทดลองครู
 
-## Infrastructure and tests
+## OpenAI draft ที่ตรวจจริง
 
-- Netlify: equity-learning-knowledge, site ID 6d598053-b00c-4f58-832a-c3d57a683641, team jatosa555.
-- Git continuous deployment from this repository main, base remote-mcp. First production deploy 6adb0eac415ee1d1d9a15f8f, commit c824537f19d97fc39296546be7b9ed5c96df0a9f: ready.
-- Production public; previews private, verified in dashboard. This is separate from MCP No Auth, which exposes only the finite public library.
-- MCP: https://equity-learning-knowledge.netlify.app/mcp
-- Health: https://equity-learning-knowledge.netlify.app/health
-- 85 entries: 57 V8 checklist summaries, 24 V4 anchors and four guides. Snapshot 2026-10-23, SHA256 02e70c0f0d70a59a8831127a88ab60965b7ffb44c40a9a6c9b1b48a19970f081. Product-created IDs and mappings are not official item numbering. No live Drive synchronization.
-- 7/7 local SDK test groups PASS; 13/13 real HTTPS protocol checks PASS. See docs/testing/live-mcp.json. Edge rate-limit configuration is attached to deployed functions; no load/stress claim.
-- Skills-only RC2: 54 full-context simulations PASS and 14 fallback PASS. Not a test of the new connected route or native installation. RC2 installed CLI smoke BLOCKED4/4 by execution policy; not bypassed or counted as PASS.
-- Reviewer evidence: https://github.com/jatosa555-creator/equity-learning-design-agent/releases/tag/mcp-review-demo-v1
-- 56-second captioned walkthrough of saved actual HTTPS responses, not a native ChatGPT UI recording or teacher trial. Full public request/response JSON accompanies it. No verified learner outcome is claimed.
+- Plugin ID: `plugin_asdk_app_6adb1381225081919e95f6afff05ff86`
+- Draft/version ID: `appsub_6adb1381228081919b57e2defc87572c`
+- https://platform.openai.com/plugins/manage/plugin_asdk_app_6adb1381225081919e95f6afff05ff86
+- Skill: **Checks passed**. MCP: **Configured**, **Domain verified**, เครื่องมือ `search_equity_library` และ `get_equity_items`; latest MCP scan **No findings**
+- Metadata มีคำเตือน **ไม่บล็อก**: automated privacy-policy assessment could not be completed. ห้ามเรียกว่าPrivacyผ่านตรวจแล้ว
+- ข้อมูลรีวิวมี5positive/3negativeและวิดีโอURLจริง แก้ negativeข้อแรกจากunknownIDเป็นงานโอนเงินนอกขอบเขตตามนิยามพอร์ทัล; not-foundยังทดสอบในระบบต่อ
+- ดาวน์โหลด draft กลับมาตรวจแล้ว **เนื้อหาทั้ง23ไฟล์ตรงต้นทางทุกbyte** พอร์ทัลแพ็กZIPใหม่จึงทำให้hashตัวarchiveต่างกัน ดู portal-draft-verification.json
 
-## OpenAI checkpoint
+## SHA256
 
-- Plugin ID: plugin_asdk_app_6adb1381225081919e95f6afff05ff86
-- Draft/version ID: appsub_6adb1381228081919b57e2defc87572c
-- URL: https://platform.openai.com/plugins/manage/plugin_asdk_app_6adb1381225081919e95f6afff05ff86
-- Initial connected package: equity-learning-design-agent-connected, metadata/Skills version 1.0.0-rc.3. Local ZIP preflight16/16 PASS; see latest receipt for exact hash.
-- Initial upload metadata: No findings. Skill check was in progress at checkpoint. MCP connection/domain verification and scan remain in progress.
-- The actual portal-issued challenge is being added at the root well-known path. Do not reuse another project's value.
-- Final package must include the actual reviewer-accessible video URL. Domain verification, current scan/findings, review-information completeness and latest ZIP/hash must be verified before owner attestations.
-- Owner must see and confirm the actual OpenAI legal attestations before final Submit. No prior project's acceptance authorizes this submission. Do not mark In review until visibly confirmed by the portal.
+- Source ZIP: `e6d852d09d0441e0e72da49be894f1a9c2d659c758d29019c44eeab6873db8a3`
+- Portal-downloaded ZIP: `28d32bd35c78483c0f0ac0bfb17c5769c4cc186d80d040414cae8987567917a8`
 
-## Remaining product validation
+## ขั้นต่อไป
 
-Native installation and source-loading workflow, mobile/free-account usability and teacher pilot still need verification. Workshop fallback for 5–6 November remains available; no approval date is promised. Teacher Growth Partner remains a separate In review / Not published reference project and was not modified.
+1. เจ้าของอ่านข้อความรับรองจริง6ข้อจากภาพและพอร์ทัล ยังไม่ได้ติ๊ก/Submit การอนุมัติสิทธิ์บทสรุปและการPublishGitHubvideoไม่แทนการยอมรับOpenAI Terms
+2. เมื่อเจ้าของยืนยันทั้ง6ข้อและอนุญาตSubmit ให้ตรวจว่าถ้อยคำและdraftยังเดิม แล้วติ๊กและส่ง ตรวจผลที่พอร์ทัลว่าIn reviewจริงก่อนรายงาน
+3. ถ้าอนุมัติภายหลัง ค่อยPublishตามคำอนุญาตและทดสอบติดตั้งบัญชีเป้าหมาย/มือถือ/บัญชีฟรี ไม่อ้างวันอนุมัติหรือผลการเรียนรู้
+4. อบรม5–6พฤศจิกายน2026มีPromptสำรองและตัวอย่างให้ซ้อม ยังต้องทดลองครูจริง
+
+Teacher Growth Partner เป็นตัวอย่าง **In review / Not published** แยกจากโครงการนี้ ไม่ได้แก้endpointหรือรายการเดิม ไม่มีautomationเฝ้าติดตามถูกสร้าง
