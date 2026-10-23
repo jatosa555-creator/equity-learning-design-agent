@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-23",
+  "zip": "Equity_Learning_Design_Agent_Connected_v1.0.0-rc.3.zip",
+  "sha256": "9389d4562e1f5c01652686d02db152ab81ef7702ca947b97d7757e62eb37f33b",
+  "checks": [
+    {
+      "name": "ZIP CRC and safe unique paths",
+      "pass": true
+    },
+    {
+      "name": "single portable root and initial MCP",
+      "pass": true
+    },
+    {
+      "name": "portable schema snapshot",
+      "pass": true
+    },
+    {
+      "name": "identity explicit",
+      "pass": true
+    },
+    {
+      "name": "listing limits",
+      "pass": true
+    },
+    {
+      "name": "four actual project URLs",
+      "pass": true
+    },
+    {
+      "name": "generated compatibility matches",
+      "pass": true
+    },
+    {
+      "name": "separate MCP URL",
+      "pass": true
+    },
+    {
+      "name": "Skill metadata",
+      "pass": true
+    },
+    {
+      "name": "all linked runtime references exist",
+      "pass": true
+    },
+    {
+      "name": "source-tracing route included",
+      "pass": true
+    },
+    {
+      "name": "logo exists and square",
+      "pass": true
+    },
+    {
+      "name": "composerIcon exists and square",
+      "pass": true
+    },
+    {
+      "name": "exactly five positive three negative review cases",
+      "pass": true
+    },
+    {
+      "name": "no original documents, credentials, tests or internal reviewer notes",
+      "pass": true
+    },
+    {
+      "name": "every shipped file covered by checksum manifest",
+      "pass": true
+    }
+  ],
+  "passed": 16,
+  "total": 16,
+  "demo_recording_present": true,
+  "portal_scan": "Not established by local checks",
+  "teacher_pilot": "Not performed"
+}

@@ -28,6 +28,9 @@ o['publication']['translations']['th-TH']['description']='คู่คิดค�
 o['review']={'test_cases':json.loads((root/'docs/submission/CONNECTED-REVIEW-CASES.json').read_text(encoding='utf-8')),'commerce':False}
 if a.demo_url:o['review']['demo_recording_url']=a.demo_url
 files['plugin.json']=(json.dumps(m,ensure_ascii=False,indent=2)+'\n').encode()
+compat={k:m[k] for k in ['name','version','description','author']}
+compat['skills']='./skills/';compat['interface']=i
+files['.codex-plugin/plugin.json']=(json.dumps(compat,ensure_ascii=False,indent=2)+'\n').encode()
 files['mcp.json']=(json.dumps({'$schema':'https://agent-plugins.org/schemas/1.0.0/mcp.schema.json','mcpServers':{'equity-learning-knowledge':{'type':'streamable-http','url':a.endpoint}}},indent=2)+'\n').encode()
 files['skills/equity-lesson-design/references/connected-retrieval.md']=(root/'packaging/connected/connected-retrieval.md').read_bytes()
 key='skills/equity-lesson-design/SKILL.md';files[key]=files[key].replace(b'| 1.0.0-rc.2',b'| 1.0.0-rc.3')+b'\n\n## Connected retrieval\n\nFor source-backed criteria, exact source requests or use of the connected equity library, read `references/connected-retrieval.md` and follow search then exact-item retrieval. General coaching does not require a tool call.\n'
