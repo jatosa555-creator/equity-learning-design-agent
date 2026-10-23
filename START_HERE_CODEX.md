@@ -20,6 +20,6 @@ The inherited RC2 behavior was reviewed in 54 full-context and 14 fallback simul
 
 The portal draft has a new connected package name, not MCP added onto a published Skills-only listing. Exactly five positive and three out-of-scope negative review prompts are supplied in docs/submission/CONNECTED-REVIEW-CASES.json. Functional not-found/invalid-input tests remain in the MCP tests.
 
-Before Submit, inspect current Skill/metadata/MCP findings, domain verification, actual video URL and imported cases. Present the real six owner attestations for confirmation; never infer acceptance from another project. Owner confirmation is still required at the recorded checkpoint. Keep Not submitted / In review / Approved / Published distinct.
+The owner explicitly confirmed all six actual portal attestations and authorized Submit for this Equity draft. Submission succeeded on 2026-10-23: the detail page shows metadata/skills 1.0.0-rc.3 · In review, Publication Not published and MCP Configured. See docs/submission/RELEASE-STATUS.md and the screenshot in the handoff. Do not submit a duplicate. For a future submission, inspect the actual current findings, domain, video, cases and attestations and obtain any newly required owner confirmation. Keep Not submitted / In review / Approved / Published distinct.
 
 For training on 5–6 November2026, use docs/WORKSHOP-PROMPT-TH.txt and the examples. The plain Prompt has less source detail than the complete Skill and no live retrieval; rehearse the actual teacher account. No approval deadline is guaranteed.

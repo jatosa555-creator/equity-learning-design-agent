@@ -1,6 +1,6 @@
 # RELEASE STATUS — Equity Learning Design Agent
 
-วันที่ 23 ตุลาคม 2026 — **พร้อมให้เจ้าของตรวจข้อความรับรองก่อนส่ง; ยัง Not submitted / Not published**
+วันที่ 23 ตุลาคม 2026 — **ส่งสำเร็จ: In review / Not published**
 
 ## ทำแล้ว
 
@@ -16,7 +16,7 @@
 - RC2เดิม full-context54/54 และ Promptสำรอง14/14 PASS ตามขอบเขตในรายงาน; installed CLI attempt-200 BLOCKED4/4 ไม่ยกเป็น PASS และไม่หลบนโยบาย
 - วิดีโอ56วินาทีและ JSONคำตอบจริงเผยแพร่โดยเจ้าของอนุญาตเฉพาะแล้ว: https://github.com/jatosa555-creator/equity-learning-design-agent/releases/tag/mcp-review-demo-v1 เป็น walkthrough จาก saved actual HTTPS responses ไม่ใช่การอัด nativeChatGPT หรือการทดลองครู
 
-## OpenAI draft ที่ตรวจจริง
+## OpenAI submission ที่ตรวจจริง
 
 - Plugin ID: `plugin_asdk_app_6adb1381225081919e95f6afff05ff86`
 - Draft/version ID: `appsub_6adb1381228081919b57e2defc87572c`
@@ -31,11 +31,18 @@
 - Source ZIP: `e6d852d09d0441e0e72da49be894f1a9c2d659c758d29019c44eeab6873db8a3`
 - Portal-downloaded ZIP: `28d32bd35c78483c0f0ac0bfb17c5769c4cc186d80d040414cae8987567917a8`
 
+## ส่งพิจารณาสำเร็จแล้ว
+
+- เจ้าของ CHANON PHAJUNDA ยืนยันข้อความรับรองจริงทั้ง6ข้อและอนุญาต Submit สำหรับ Equity โดยเฉพาะ จากนั้นตรวจ draft/ถ้อยคำเดิม ติ๊กทั้ง6ข้อ และกด Submit
+- ตรวจผลจากพอร์ทัลจริงวันที่23ตุลาคม2026: **Review status In review**, **Publication Not published**, **MCP Configured**, เมนูเวอร์ชัน **1.0.0-rc.3 · In review**
+- หน้ารวมแสดง Version1.0.0 แต่หน้ารายละเอียดระบุ metadata/skills1.0.0-rc.3 ตามแพ็กเกจที่ส่ง ไม่ได้เปลี่ยน ZIP หลังส่ง
+- หลักฐานในชุด handoff: `_development/evidence/connected/openai-in-review.png` และ `portal-draft-verification.json` โดยเก็บ receipt ก่อนส่งแยกไว้
+- การส่งนี้ไม่ใช่การอนุมัติหรือ Publish และไม่มีการรับประกันระยะเวลาตรวจ
+
 ## ขั้นต่อไป
 
-1. เจ้าของอ่านข้อความรับรองจริง6ข้อจากภาพและพอร์ทัล ยังไม่ได้ติ๊ก/Submit การอนุมัติสิทธิ์บทสรุปและการPublishGitHubvideoไม่แทนการยอมรับOpenAI Terms
-2. เมื่อเจ้าของยืนยันทั้ง6ข้อและอนุญาตSubmit ให้ตรวจว่าถ้อยคำและdraftยังเดิม แล้วติ๊กและส่ง ตรวจผลที่พอร์ทัลว่าIn reviewจริงก่อนรายงาน
-3. ถ้าอนุมัติภายหลัง ค่อยPublishตามคำอนุญาตและทดสอบติดตั้งบัญชีเป้าหมาย/มือถือ/บัญชีฟรี ไม่อ้างวันอนุมัติหรือผลการเรียนรู้
-4. อบรม5–6พฤศจิกายน2026มีPromptสำรองและตัวอย่างให้ซ้อม ยังต้องทดลองครูจริง
+1. รอผลพิจารณาจาก OpenAI และแก้ตามข้อเสนอแนะถ้ามี ยังไม่มีการสร้าง automation เฝ้าติดตาม
+2. ถ้าอนุมัติภายหลัง ค่อย Publish ตามคำอนุญาตและทดสอบติดตั้งบัญชีเป้าหมาย/มือถือ/บัญชีฟรี ไม่อ้างผลการเรียนรู้ที่ยังไม่ได้ทดลอง
+3. อบรม5–6พฤศจิกายน2026มี Prompt สำรองและตัวอย่างให้ซ้อม ยังต้องทดลองครูจริง
 
 Teacher Growth Partner เป็นตัวอย่าง **In review / Not published** แยกจากโครงการนี้ ไม่ได้แก้endpointหรือรายการเดิม ไม่มีautomationเฝ้าติดตามถูกสร้าง
